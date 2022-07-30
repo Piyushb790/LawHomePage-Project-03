@@ -12,7 +12,7 @@ Deployed link of website &nbsp; ![Project-3](https://img.shields.io/badge/Projec
 
 # Preview of the Project.
 
-![Preview](preview.png)
+![Preview](./preview.png)
 
 <br>
 

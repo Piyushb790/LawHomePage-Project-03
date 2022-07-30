@@ -20,7 +20,6 @@ body {
 }
 .list {
   font-size: 21px;
-  border: 1px solid #000;
   list-style: none;
   text-align: right;
   margin-right: 260px;
