@@ -12,6 +12,9 @@ body {
 .container {
   height: 350px;
 }
+/* ------------------------------ */
+/* ---------- NAVBAR ------------ */
+/* ------------------------------ */
 .logo {
   display: inline-block;
   height: 40px;
@@ -32,6 +35,28 @@ body {
   display: inline-block;
   text-align: center;
 }
+button {
+  float: right;
+  margin-top: -342px;
+  margin-right: 55px;
+  padding: 13px 25px;
+  font-size: 20px;
+  background-color: transparent;
+  border: 2px solid #766b2f;
+  color: #766b2f;
+  border-radius: 7px;
+  font-weight: 700;
+  cursor: pointer;
+}
+.list-item:hover {
+  color: #ffffff;
+  cursor: pointer;
+  font-size: 25px;
+  font-weight: 500;
+}
+/* ------------------------------ */
+/* ---------- HERO ------------ */
+/* ------------------------------ */
 .bg {
   height: 350px;
   position: absolute;
@@ -58,22 +83,4 @@ body {
   line-height: 26px;
   letter-spacing: 1px;
 }
-button {
-  float: right;
-  margin-top: -342px;
-  margin-right: 55px;
-  padding: 13px 25px;
-  font-size: 20px;
-  background-color: transparent;
-  border: 2px solid #766b2f;
-  color: #766b2f;
-  border-radius: 7px;
-  font-weight: 700;
-  cursor: pointer;
-}
-.list-item:hover {
-  color: #ffffff;
-  cursor: pointer;
-  font-size: 25px;
-  font-weight: 500;
-}
+
